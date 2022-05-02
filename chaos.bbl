@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+
+\bibitem{angenent}
+Sigurd Angenent.
+\newblock Math 519 nondimensionalization.
+
+\bibitem{chen}
+Joe Chen.
+\newblock Chaos from simplicity: An introduction to the double pendulum.
+\newblock {\em 2008}.
+
+\bibitem{coppi}
+Paolo Coppi.
+\newblock Buckingham pi's theorem.
+
+\bibitem{danforth}
+Chris Danforth.
+\newblock Chaos, fractals, and dynamical systems.
+\newblock University of Vermont Math 266 Course, 2017.
+
+\bibitem{elert}
+Glenn Elert.
+\newblock {\em The Chaos Hypertextbook}.
+\newblock 1998.
+
+\bibitem{hilborn}
+R.~Hilborn.
+\newblock {\em Chaos and Nonlinear Dynamics: An Introduction for Scientists and
+  Engineers.}
+\newblock Oxford University Press, 4th edition edition, 1994.
+
+\bibitem{leonov}
+Kuznetsov~N.V Leonov~G.A.
+\newblock Time-varying linearization and the perron effects.
+\newblock {\em International Journal of Bifurcation and Chaos},
+  17(4):1079--1107, 2007.
+
+\bibitem{rafat}
+M.~S.~Wheatland M.~Z.~Rafat and T.~R. Bedding.
+\newblock Dynamics of a double pendulum with distributed mass.
+
+\bibitem{balcerzak}
+Danylo Pikunov \& Artur~Dabrowski Marek~Balcerzak.
+\newblock The fastest, simplified method of lyapunov exponents spectrum
+  estimation for continuous-time dynamical systems.
+\newblock 2018.
+
+\bibitem{sprott}
+J.~C. Sprott.
+\newblock Numerical calculation of largest lyapunov exponent.
+\newblock 1997.
+
+\bibitem{stroup}
+Adrianne Stroup.
+\newblock The dynamics of pendula: An introduction to hamiltonian systems and
+  chaos.
+\newblock 2004.
+
+\bibitem{weckesser}
+Warren Weckesser.
+\newblock Math 312 - applied mathematics: Social sciences, 2005.
+
+\bibitem{weisstein}
+Eric~W. Weisstein.
+\newblock Double pendulum.
+
+\end{thebibliography}
